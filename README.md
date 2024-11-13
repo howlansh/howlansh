@@ -11,6 +11,7 @@
 :books: books  
 :game_die: board game  
 :video_game: video game  
+:radio: radio amateur  
 :car: drive  
 :sailboat: yachting  
-:airplane: dream of flying
+:airplane: flying
