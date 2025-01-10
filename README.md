@@ -5,7 +5,7 @@
 🎓 Graduate of the Master's Degree in Electronics and Nanoelectronics at MPEI
 
 ## Interests
-:camera: <a href="https://instagram.com/roofsofmoscow" target="_blank">photo</a>  
+:camera: [photo](https://instagram.com/roofsofmoscow)  
 :headphones: [music](https://music.yandex.ru/users/SergejMuzalew)  
 :cinema: [cinema](https://www.kinopoisk.ru/user/5485557/)  
 :books: [books](https://www.litres.ru/chitateli/22087538)  
