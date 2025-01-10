@@ -6,11 +6,11 @@
 
 ## Interests
 :camera: [photo](https://instagram.com/roofsofmoscow)  
-:headphones: music  
-:cinema: cinema  
-:books: books  
+:headphones: [music](https://music.yandex.ru/users/SergejMuzalew)  
+:cinema: [cinema](https://www.kinopoisk.ru/user/5485557/)  
+:books: [books](https://www.litres.ru/chitateli/22087538)  
+:video_game: [video game](https://steamcommunity.com/id/grey1996)  
 :game_die: board game  
-:video_game: video game  
 :radio: radio amateur  
 :car: drive  
 :sailboat: yachting  
