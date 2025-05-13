@@ -6,7 +6,7 @@
 
 ## Interests
 :camera: [photo](https://instagram.com/roofsofmoscow)  
-:headphones: [music](https://music.yandex.ru/users/SergejMuzalew)  
+:headphones: music
 :cinema: [cinema](https://www.kinopoisk.ru/user/5485557/)  
 :books: [books](https://books.yandex.ru/@b7977942614/books/finished)  
 :video_game: [video game](https://steamcommunity.com/id/grey1996)  
