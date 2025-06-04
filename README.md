@@ -5,11 +5,11 @@
 🎓 Graduate of the Master's Degree in Electronics and Nanoelectronics at MPEI
 
 ## Interests
-:camera: [photo](https://instagram.com/roofsofmoscow)  
+:camera: photo  
 :headphones: music  
-:cinema: [cinema](https://www.kinopoisk.ru/user/5485557/)  
-:books: [books](https://books.yandex.ru/@b7977942614/books/finished)  
-:video_game: [video game](https://steamcommunity.com/id/grey1996)  
+:cinema: cinema  
+:books: books  
+:video_game: video game  
 :game_die: board game  
 :radio: radio amateur  
 :car: drive  
