@@ -5,13 +5,13 @@
 🎓 Graduate of the Master's Degree in Electronics and Nanoelectronics at MPEI
 
 ## Interests
-:camera: photo  
-:headphones: music  
-:cinema: cinema  
-:books: books  
-:video_game: video game  
-:game_die: board game  
-:radio: radio amateur  
-:car: drive  
-:sailboat: yachting  
-:airplane: flying
+:camera:
+:headphones:
+:cinema:
+:books:
+:video_game:
+:game_die:
+:radio:
+:car:
+:sailboat:
+:airplane:
